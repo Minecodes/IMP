@@ -5,8 +5,7 @@
   "repository": "https://github.com/Minecodes/IMP.git",
   "author": "Minecodes",
   "badges": [
-    "https://img.shields.io/github/package-json/v/Minecodes/IMP?style=flat-square",
-    "https://img.shields.io/github/license/Minecodes/IMP?style=flat-square"
+    "https://img.shields.io/github/package-json/v/Minecodes/IMP?style=for-the-badge"
   ],
   "licenses": [
     {

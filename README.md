@@ -1,4 +1,4 @@
-# IMP ![](https://img.shields.io/github/package-json/v/Minecodes/IMP?style=flat-square) ![](https://img.shields.io/github/license/Minecodes/IMP?style=flat-square)
+# IMP ![](https://img.shields.io/github/package-json/v/Minecodes/IMP?style=for-the-badge)
 > **Disclaimer**
 > The code is created by me (Minecodes <minecodes@minecodes.de>).
 > The examples are made from the examples IMP computer science classes.
