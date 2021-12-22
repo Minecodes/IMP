@@ -4,10 +4,28 @@
   "description": "This is a list of examples of my IMP classes.",
   "repository": "https://github.com/Minecodes/IMP.git",
   "author": "Minecodes",
+  "badges": [
+    "https://img.shields.io/github/package-json/v/Minecodes/IMP?style=flat-square",
+    "https://img.shields.io/github/license/Minecodes/IMP?style=flat-square"
+  ],
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    {
+      "type": "GPL-3.0",
+      "url": "https://www.gnu.org/licenses/gpl-3.0.html"
+    },
+    {
+      "type": "BSD-2-Clause",
+      "url": "https://opensource.org/licenses/BSD-2-Clause"
+    }
+  ],
   "scripts": {
     "build": "tsc"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "devDependencies": {
     "typescript": "^4.5.4"
   }
