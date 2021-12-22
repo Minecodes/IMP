@@ -4,6 +4,7 @@
   "description": "This is a list of examples of my IMP classes.",
   "repository": "https://github.com/Minecodes/IMP.git",
   "author": "Minecodes",
+  "registry": "https://npm.pkg.github.com",
   "badges": [
     "https://img.shields.io/github/package-json/v/Minecodes/IMP?style=for-the-badge"
   ],
