@@ -1,0 +1,14 @@
+{
+  "name": "IMP",
+  "version": "1.0.0",
+  "description": "This is a list of examples of my IMP classes.",
+  "repository": "https://github.com/Minecodes/IMP.git",
+  "author": "Minecodes",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
