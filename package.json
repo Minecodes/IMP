@@ -1,10 +1,14 @@
 {
-  "name": "IMP",
+  "name": "@minecodes/imp",
   "version": "1.0.0",
   "description": "This is a list of examples of my IMP classes.",
-  "repository": "https://github.com/Minecodes/IMP.git",
+  "repository": "git://github.com/Minecodes/IMP.git",
   "author": "Minecodes",
   "registry": "https://npm.pkg.github.com",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "publisher": "Minecodes",
   "badges": [
     "https://img.shields.io/github/package-json/v/Minecodes/IMP?style=for-the-badge"
   ],
